@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Map", "Map\Map.csproj", "{04C949A9-DF8B-44A6-AA14-74ED7ED6BA3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Map.Test", "Map.Test\Map.Test.csproj", "{D952F905-0600-42FE-A93F-EBDDE9160EA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04C949A9-DF8B-44A6-AA14-74ED7ED6BA3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C949A9-DF8B-44A6-AA14-74ED7ED6BA3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C949A9-DF8B-44A6-AA14-74ED7ED6BA3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C949A9-DF8B-44A6-AA14-74ED7ED6BA3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D952F905-0600-42FE-A93F-EBDDE9160EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D952F905-0600-42FE-A93F-EBDDE9160EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D952F905-0600-42FE-A93F-EBDDE9160EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D952F905-0600-42FE-A93F-EBDDE9160EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
